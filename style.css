@@ -1,0 +1,13 @@
+body{
+	display: flex;
+	align-items: center;
+	margin: 70px;
+	font-family: Helvetica;
+}
+img{
+	position: relative;
+	left: 20px;
+	height: 200px;
+	width: 300px;
+	border-radius: 50px;
+}
